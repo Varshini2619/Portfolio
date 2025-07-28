@@ -23,6 +23,14 @@ header {
   height: 30px;
 }
 
+project iframe {
+  width: 100%;
+  height: 300px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #fff;
+}
+
 .resume-link {
   display: inline-block;
   margin-top: 1rem;
